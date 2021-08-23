@@ -4,14 +4,14 @@
 
 Certified **Google Cloud Architect**.
 
-**Google Developer Expert** in Google Cloud Platform.
+**[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lukas-karlsson)** in Google Cloud Platform.
 
 **Community Organizer**:
 
-* **GDG Cloud Boston** (Google Developer Groups)
-* **Slack Boston** (Slack Community)
+* **Google Developer Group: Cloud Boston** - https://gdg.community.dev/gdg-cloud-boston/
+* **Slack Community: Boston** - https://www.meetup.com/Slack-Community-Boston/
 
-Pronouns: he/him/his
+**Pronouns**: he/him/his
 
 <!--
 **lukwam/lukwam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
