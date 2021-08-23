@@ -1,4 +1,13 @@
-# Lukas Karlsson (`lukwam`) 👋
+# Lukas Karlsson (`@lukwam`) 👋
+
+I am currently a Cloud Architect and Developer Advocate at the Broad Institute of MIT and Havard ([`@broadinstitute`](https://broadinstitute.org/)).
+
+I am a Google Developer Expert in Google Cloud Platform with a particualr focus on Serverless technologies such as App Engine, Cloud Functions and Firestore.
+
+I am the lead organizer for:
+
+* GDG Cloud Boston (Google Developer Groups)
+* Slack Boston (Slack Community)
 
 <!--
 **lukwam/lukwam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
