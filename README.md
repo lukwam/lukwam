@@ -1,8 +1,8 @@
 # Lukas Karlsson (`@lukwam`) 👋
 
-**Cloud Architect and Developer Advocate** at the Broad Institute of MIT and Havard ([`@broadinstitute`](https://broadinstitute.org/)).
+**loud Architect and Developer Advocate** at the Broad Institute of MIT and Havard ([`@broadinstitute`](https://broadinstitute.org/)).
 
-Certified **Google Cloud Architect**.
+Google Cloud Certified **[Professional Cloud Architect](https://googlecloudcertified.credential.net/profile/053d0946f4f4911b14f9649c296bed2f352c92d1)**.
 
 **[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lukas-karlsson)** in Google Cloud Platform.
 
