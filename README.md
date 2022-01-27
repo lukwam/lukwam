@@ -4,6 +4,7 @@
 
 **✅ Certifications**:
 * **[Google Cloud Certified Professional Cloud Architect](https://www.credential.net/f12c68f1-f80e-4dde-877d-f9e1778c1990)**
+* **[Google Cloud Certified Professional Collaboration Engineer](https://www.credential.net/fce05a38-e625-4ac5-9293-77eb474173f1)**
 * **[Slack Certified Admin](https://verify.skilljar.com/c/e8nmr3h6isc5)**
 * **[Slack Certified Developer](https://verify.skilljar.com/c/i7w6ge9knhdp)**
 
