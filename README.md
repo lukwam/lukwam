@@ -8,7 +8,7 @@
 * **[Slack Certified Admin](https://verify.skilljar.com/c/e8nmr3h6isc5)**
 * **[Slack Certified Developer](https://verify.skilljar.com/c/i7w6ge9knhdp)**
 
-**✨ [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lukas-karlsson)** in Google Cloud Platform.
+**✨ [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-lukas-karlsson)** specializing in Google Cloud Platform.
 
 **📅 Community Organizer**:
 
