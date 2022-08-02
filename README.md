@@ -13,7 +13,7 @@
 **📅 Community Organizer**:
 
 * **Google Developer Group: Cloud Boston** - https://gdg.community.dev/gdg-cloud-boston/
-* **Slack Community: Boston** - https://www.meetup.com/Slack-Community-Boston/
+* **Slack Community: Boston** - https://slackcommunity.com/boston/
 
 **💁‍♂️ Pronouns**: he/him/his
 
