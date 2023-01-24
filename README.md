@@ -17,8 +17,7 @@
 
 **💁‍♂️ Pronouns**: he/him/his
 ---
-<img alt="Google Developer Experts Cloud Badge" src="https://user-images.githubusercontent.com/1765418/214375312-d3518450-9380-44b9-83fb-108350f4a3a3.svg" width="200">
-
+<img alt="Google Developer Experts Cloud Badge" src="https://user-images.githubusercontent.com/1765418/214377882-9b01b09b-ed29-4708-83a7-f67ab4bc8cdc.png" width="200">
 
 <!--
 **lukwam/lukwam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
